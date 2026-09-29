@@ -122,3 +122,10 @@ Install the required packages:
 
 ```bash
 pip install -r requirements.txt
+---
+
+## 🔗 Project Repository
+
+GitHub Repository:
+
+https://github.com/blackX1234/Video_Game_Sales_Project
