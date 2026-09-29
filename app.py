@@ -18,7 +18,7 @@ st.set_page_config(
 # LOAD DATA
 # ============================================================
 
-@st.cache
+@st.cache_data
 def load_data():
     return pd.read_csv(
         "Video_Games_Sales_as_at_22_Dec_2016.csv"
