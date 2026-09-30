@@ -115,6 +115,12 @@ https://videogamesalesproject-phzrk8aubiizxftvy6eqji.streamlit.app/
 - `README.md` — Project documentation
 
 ---
+## 🔗 Project Repository
+
+GitHub Repository:
+
+https://github.com/blackX1234/Video_Game_Sales_Project
+---
 
 ## ▶️ Running the Streamlit Dashboard
 
@@ -122,10 +128,3 @@ Install the required packages:
 
 ```bash
 pip install -r requirements.txt
----
-
-## 🔗 Project Repository
-
-GitHub Repository:
-
-https://github.com/blackX1234/Video_Game_Sales_Project
